@@ -25,6 +25,12 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Davi123-pro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davi123-pro/Davi123-pro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davi123-pro/Davi123-pro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="[https://](https://raw.githubusercontent.com/Davi123-pro/Davi123-pro/output/github-contribution-grid-snake.svg)">
+</picture>
+
 ## 🔥 Skills
 
 <div style="flex-basis: 48%;">
