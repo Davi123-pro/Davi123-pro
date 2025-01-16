@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 🙋🏻 Hello, my name is Davi Melo<br> 🏠 I'm from Uberlândia - MG<br> 📘 I study at the Uberlândia State School<br> 💭 I have several dreams but my main one is to be a programmer.</p>
+<p align="left"> 🙋🏻 Hello, my name is Davi Melo<br> 🏠 I'm from Uberlândia - MG<br> 💭 I have several dreams but my main one is to be a programmer.</p>
 
 ###
 
@@ -16,9 +16,10 @@
 
 <p align="left">More about me:</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davimelog123/)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-###
+<div>
+<a href="https://www.instagram.com/davimelog123" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.whatsapp.com/34998091584" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
 <div>
   <a href="https://beacons.ai/Davi123-pro">
